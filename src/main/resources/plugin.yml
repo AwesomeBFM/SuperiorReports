@@ -1,0 +1,7 @@
+name: SuperiorReports
+version: '${version}'
+main: dev.awesomebfm.superiorreports.SuperiorReports
+api-version: '1.18'
+authors: [AwesomeBFM]
+description: Advanced reporting system for your Minecraft Server. Includes chat logging, automod, actions, and more!
+website: github.com/AwesomeBFM/SuperiorReports
